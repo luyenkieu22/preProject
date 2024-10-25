@@ -109,5 +109,8 @@
     "axios-mock-adapter": "^1.17.0",
     "cross-env": "^5.2.0",
     "gh-pages": "^2.1.1"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
